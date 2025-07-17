@@ -1,4 +1,5 @@
 # ScioSense ENS16x C Library
+
 C library for the ENS16x digital four channel MOX gas sensors with I2C interface from ScioSense.
 
 ENS16x is a range of digital multi-gas metal oxide (MOX) sensors, specifically designed for indoor air quality 
